@@ -58,7 +58,7 @@ export default function RootLayout({
             </div>
             <div className="mb-4">
               <p className="text-sm text-neutral-500 dark:text-neutral-500 justify">
-                The Most Successful People I Know Believe in Themselves <br></br>Almost to the Point of Delusion — "Sam Altman"
+                The Most Successful People I Know Believe in Themselves <br></br>Almost to the Point of Delusion — &ldquo;Sam Altman&rdquo;
               </p>
             </div>
           </div>
