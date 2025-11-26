@@ -30,7 +30,7 @@ export const aboutMe: AboutMe = {
   githubUsername: "ritessshhh",
   linkedinUsername: "riteeessshhh",
   twitterUsername: "ritteesshh",
-  blogUrl: "https://",
+  blogUrl: "",
   cvUrl: "https://drive.google.com/file/d/1zGLQCvCD54Gdrq5uY-4nEkmMUOxwuhsE/view?usp=sharing",
   institutionUrl: "https://www.stonybrook.edu",
   // altName: "",
