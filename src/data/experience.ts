@@ -15,7 +15,7 @@ export const experienceData: Experience[] = [
     title: "Research Intern",
     company: "UC Berkeley",
     description:
-      "I extended the Berkeley Function Calling Leaderboard (BFCL) to multi-modal evaluation by curating a 300-image dataset and integrating audio + vision pipelines.",
+      "I expanded the Berkeley Function Calling Leaderboard (BFCL) to multi-modal evaluation by curating a 300-image dataset and wiring in audio and vision pipelines, enabling perception-to-action benchmarking beyond text. I also co-authored MFCL: Multi-modal Function Calling Evaluation for LLMs (ICLR 2026 under review), an 8.2K-task benchmark with controlled perturbations (noise, occlusion, disfluencies) that provides the first principled framework for diagnosing perception-to-tool-call failures in large language models.",
     advisor: "<a href='https://people.eecs.berkeley.edu/~jegonzal/'>Prof. Joseph E. Gonzalez</a>",
     companyUrl: "",
     imageUrl: "/images/experience/berkeley.jpg",
