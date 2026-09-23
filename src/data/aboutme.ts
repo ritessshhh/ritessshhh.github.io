@@ -31,7 +31,7 @@ export const aboutMe: AboutMe = {
   linkedinUsername: "riteeessshhh",
   twitterUsername: "ritteesshh",
   blogUrl: "",
-  cvUrl: "https://drive.google.com/file/d/1OH_vSE8LreoDI9h82rmHJYbwKR2iZ_8r/view?usp=sharing",
+  cvUrl: "https://drive.google.com/file/d/1e2IxPgFbsucTMctOKWmQUY-qFIvV6Jg5/view?usp=sharing",
   institutionUrl: "https://www.stonybrook.edu",
   // altName: "",
   // secretDescription: "I like dogs.",
